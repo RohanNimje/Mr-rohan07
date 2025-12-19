@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** and **BCA studen
 - Contributing to open-source repositories.
 
 ## 📬 How to Reach Me
-- LinkedIn: [www.linkedin.com/in/rohan-nimje07](#)
+- LinkedIn: [www.linkedin.com/in/rohannimje](#)
 - Email: rohannimje53@gmail.com
 
 ## ⚡ Fun Fact
